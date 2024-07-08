@@ -1,6 +1,9 @@
-# free_code_camp_python
-Tutorials I've completed from freecodecamp.org's Scientific Computing with Python (Beta) Course 
+# free_code_camp_python 
 
-I've created this repository to reference my completed work in the course. I also hope my progress can encourage others in their own Python journey.
-If you're working through the courses, please only use this repository as a reference. Do not copy and paste answers to questions.
-For assistance with any issues or questions, please visit the forum.freecodecamp.org
+This repository contains tutorials I've completed from the Scientific Computing with Python (Beta) Course by freecodecamp.org.
+
+Course Website: freecodecamp.org
+
+For assistance with any problems, please visit the forum.freecodecamp.org website.
+
+Disclaimer: The code in this repository is for educational purposes only. I do not claim any rights to the original exercises or content from the course. All rights to the original material belong to the author and publisher. This repository is meant as a personal reference tool. If you're also learning from this course, feel free to compare solutions, but please work through the exercises on your own first. If you are the copyright holder and have any concerns, please contact me, and I will be happy to address them.
