@@ -2,7 +2,7 @@
 
 This repository contains tutorials I've completed from the Scientific Computing with Python (Beta) Course by freecodecamp.org.
 
-The projects files are named in the oder they appear in the course, starting from top to bottom (minus the certification projects), e.g., 'p1' is the first project of the course.
+The projects files are named in the oder they appear in the course, starting from top to bottom (minus the certification projects), e.g., 'p01' is the first project of the course.
 
 Course Website: freecodecamp.org
 
